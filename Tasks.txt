@@ -1,0 +1,38 @@
+What is AI, what is ML. 
+Workflow - ML, DL, CNN, ANN, RNN, GRU, LSTM, NLP, Transformers, RL, GPT, VAE (Auto encoders), GAN, RAG
+Foundation models, MCP, AI Agents.
+Chat-GPT Order:
+    ML Basics → Supervised/Unsupervised, metrics, scikit-learn
+
+    ANN & DL → Build intuition, play with simple networks
+
+    CNNs → Do image classification, digit recognizer (MNIST)
+
+    RNN / LSTM / GRU → Time series, text generation
+
+    NLP Basics → Tokenization, embeddings, TF-IDF
+
+    Transformers & GPT → Hugging Face, OpenAI API, train tiny transformers
+
+    Autoencoders & VAE → Feature compression, reconstruction
+    GANs → Image generation (DCGAN, StyleGAN)
+    RAG, Embeddings, LangChain → Combine LLMs with external data
+    AI Agents → Multi-step reasoning, goal-based automation
+    Foundation models & deployment → Working with large pre-trained models, hosting them
+
+ML Learning Order: Supervised
+    Linear Regression
+    Polynomial Regression
+    Logistic Regression
+    Binary classification
+    Multiple classification
+    K Nearnest neighbours
+    Support Vector Machine
+    Decision Tree Classifier
+    Random Forest Classifier
+
+Aim, Data Collection, EDA, Pre processing Data, Splitting data, 
+choosing ML algorithm, Training model, predicting using model,
+Evaluating model, Fine tuning model, 
+
+SkLearn Library
