@@ -61,7 +61,7 @@ answer3Seq = {
     "jesus burgess",
     "shiryu",
     "van augur",
-    "awalo pizzaro",
+    "avalo pizzaro",
     "lafitte",
     "catarina devon",
     "sanjuan wolf",
