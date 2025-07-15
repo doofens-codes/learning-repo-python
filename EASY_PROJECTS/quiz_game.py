@@ -4,7 +4,7 @@ import re
 print("Welcome to Foxy's Quiz with Marshall D Teach - Blackbeard Zehahahahaha!")
 
 yes_responses = {"yes", "y", "yeah", "yep", "ye", "sure", "ok", "okay"}
-no_responses = {"no", "n", "nah", "nope"}
+no_responses = {"no", "n", "nah", "nope" "wont" "cant"}
 
 playing = input("Do you want to play? (Yes/No): ").casefold().strip()
 
@@ -77,8 +77,14 @@ if answerCount >= 6:
 else:
     print("Pathetic - you're mine Zehahahhaha!!")
 
-print(f"Your final score is {userScore}/3")
+if answerCount == 10:
+    print("Wait, you've reminded all my captains! Zehahahah!! Bonus point +1")
+    userScore += 1
+
+print(f"Your final score is {userScore}/4")
 match userScore:
+    case 4:
+        print("Zehahhaha - only a few legends could get this score. Join my crew!!!")
     case 3:
         print("Zehahaha - you're good! Join my crew!!")
     case 2:
