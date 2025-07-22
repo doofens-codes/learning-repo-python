@@ -4,7 +4,7 @@ import re
 print("Welcome to Foxy's Quiz with Marshall D Teach - Blackbeard Zehahahahaha!")
 
 yes_responses = {"yes", "y", "yeah", "yep", "ye", "sure", "ok", "okay"}
-no_responses = {"no", "n", "nah", "nope" "wont" "cant"}
+no_responses = {"no", "n", "nah", "nope", "wont", "cant"}
 
 playing = input("Do you want to play? (Yes/No): ").casefold().strip()
 
